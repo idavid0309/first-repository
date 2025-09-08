@@ -6,4 +6,6 @@ if __name__ == '__main__':
 
 a=int(print("1:"))
 
-print(a)
+b=a+100
+
+print(b)
