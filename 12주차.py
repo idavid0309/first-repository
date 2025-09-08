@@ -67,3 +67,5 @@ class Circle:
 circle=Circle(4)
 print("반지름:",circle.radius,"둘레:",circle.calcPerimeter,
       "면적:",circle.calcArea)
+
+
